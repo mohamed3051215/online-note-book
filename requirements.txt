@@ -1,0 +1,2 @@
+flutter version : 2.0.5
+run in cmd "flutter pub get"
